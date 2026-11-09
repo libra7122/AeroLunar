@@ -1,0 +1,6 @@
+{
+  "name": "AeroLunar: NASA Moon & Mars Machines Simulator & C++ Engine",
+  "description": "Interactive educational mission game and C++ simulation engine exploring NASA rovers, landers, and orbiters sent to the Moon and Mars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
